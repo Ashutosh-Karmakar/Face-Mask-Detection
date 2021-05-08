@@ -1,8 +1,4 @@
-# Face Mask Detection using KERAS
- Markup : - Bullet list
-              - Nested bullet
-                  - Sub-nested bullet etc
-          - Bullet list item 2 
+
 # Face Mask Detection using KERAS
 #### This is my python lab project for my college in this i have used keras a machine learning and deep learning package made by google this is a part of tensorflow
 In this project I am using a dataset from kaggle containing two folders one mask and another without mask which contains the images of people with **mask** and **without mask** and also i have added some of my images also
