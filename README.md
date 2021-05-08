@@ -19,7 +19,7 @@ In this project I am using a dataset from kaggle containing two folders one mask
  <li>corresponding lable are added to <b>label = []</b></li>
  <li>then I convert it to one hot encoding i.e [0,1] for mask and [1,0] to mask </li>
  <li>then I are using sequential model of keras to and only adding layes </li>
- <li>![Screenshot (118)](https://user-images.githubusercontent.com/60296760/117527096-37181f80-af7e-11eb-9f97-3cfa4c2a353d.png)</li>
+ ![Screenshot (118)](https://user-images.githubusercontent.com/60296760/117527096-37181f80-af7e-11eb-9f97-3cfa4c2a353d.png)
  <li>here I have created a model with <b>4</b> layers first 64 nodes then 128 and then 64 and last layer is 2 nodes for <b>mask</b> and <b>no mask</b> </li>
  <li>then I am traing the model with 60 epoachs </li>
  <li>images</li>
