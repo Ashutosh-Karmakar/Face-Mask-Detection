@@ -1,0 +1,26 @@
+there is other object detection mechanism like the YOLO 
+
+Yolo uses a different approach this divide the images into 
+regions and predicts the boudery boxes and then which is highlighted
+is given out as result.
+
+but here we are using keras bcs it is much easier to learn
+and to use as it helps in making models just by adding layers
+and then train it.
+it is also maded and backed up by google so it is always geting 
+better.
+then it also allows use to load the model and deploy the model
+in any platform.
+
+
+
+
+here we are using open cv as it is the most popular
+although it has some flaws but it was easier to learn as many resoures 
+available for free so we went with that there are other like 
+google vision api
+microsoft computer vision 
+but difficult to learn
+
+it also has many prebuild algorith like 
+we are using harr cascade xml.
