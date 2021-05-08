@@ -10,8 +10,10 @@ In this project I am using a dataset from kaggle containing two folders one mask
 ***
 
 ## How it works??
-1.Here we are taking the image of size 112 * 112 
-2.converting it to gray scale 
+<ul>
+ <li>Here we are taking the image of size 112 * 112 </li>
+ <li>converting it to gray scale </li>
+</ul>
 3.then to pixels
 4.then to numpy array 
 adding it ti **images = []** list
