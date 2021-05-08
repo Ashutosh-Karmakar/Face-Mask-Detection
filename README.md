@@ -43,7 +43,16 @@ In this project I am using a dataset from kaggle containing two folders one mask
 ![Screenshot (116)](https://user-images.githubusercontent.com/60296760/117527237-5794a980-af7f-11eb-8962-1f17aa68e87d.png)
 
 
-## we can also detect still images in the same way
+### we can also detect still images in the same way
+## Now the live demo
+### for still image
+![Screenshot (119)](https://user-images.githubusercontent.com/60296760/117527283-a80c0700-af7f-11eb-9e0c-07b821cab467.png)
+
+### in real time
+
+https://user-images.githubusercontent.com/60296760/117527341-1bae1400-af80-11eb-8a4f-6310f459a42d.mp4
+
+
 
 
 
