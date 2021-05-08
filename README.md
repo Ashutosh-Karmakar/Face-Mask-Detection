@@ -19,6 +19,10 @@ In this project I am using a dataset from kaggle containing two folders one mask
  
 ![Screenshot (118)](https://user-images.githubusercontent.com/60296760/117527215-37fd8100-af7f-11eb-83a7-edf1dc1a2353.png)
 
+
+![node diagram](https://user-images.githubusercontent.com/60296760/117527462-1a311b80-af81-11eb-8f33-fb2144329078.png)
+
+
  
  <ul>
  <li>here I have created a model with <b>4</b> layers first 64 nodes then 128 and then 64 and last layer is 2 nodes for <b>mask</b> and <b>no mask</b> </li>
