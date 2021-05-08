@@ -7,8 +7,9 @@
 #### This is my python lab project for my college in this i have used keras a machine learning and deep learning package made by google this is a part of tensorflow
 In this project I am using a dataset from kaggle containing two folders one mask and another without mask which contains the images of people with **mask** and **without mask** and also i have added some of my images also
 
-## How it works??
 ***
+
+## How it works??
 1.Here we are taking the image of size 112 * 112 
 2.converting it to gray scale 
 3.then to pixels
