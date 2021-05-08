@@ -15,7 +15,7 @@ In this project I am using a dataset from kaggle containing two folders one mask
  <li>converting it to gray scale </li>
  <li>then to pixels</li>
  <li>then to numpy array  </li>
- <li>adding it ti **images = []** list </li>
+ <li>adding it ti <b>images = []</b> list </li>
  <li>corresponding lable are added to **label = []**</li>
  <li>then I convert it to one hot encoding i.e [0,1] for mask and [1,0] to mask </li>
  <li>then I are using sequential model of keras to and only adding layes </li>
