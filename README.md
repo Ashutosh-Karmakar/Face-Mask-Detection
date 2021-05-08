@@ -9,10 +9,10 @@ In this project I am using a dataset from kaggle containing two folders one mask
 
 ## How it works??
 
->Here we are taking the image of size 112 * 112 
->converting it to gray scale 
->then to pixels
-then to numpy array 
+1.Here we are taking the image of size 112 * 112 
+2.converting it to gray scale 
+3.then to pixels
+4.then to numpy array 
 adding it ti **images = []** list
 corresponding lable are added to **label = []**
 then I convert it to one hot encoding i.e [0,1] for mask and [1,0] to mask
